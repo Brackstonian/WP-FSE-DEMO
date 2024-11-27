@@ -1,0 +1,11 @@
+{
+    "mappings": {
+        "wp-content/themes/theme": "./wp-fse-demo-theme",
+        "wp-content/plugins/plugin": "./wp-fse-demo-plugin"
+    },
+    "config": {
+        "WP_DEVELOPMENT_MODE": "theme",
+        "WP_DEBUG": true,
+        "WP_DEBUG_DISPLAY": true
+    }
+}
